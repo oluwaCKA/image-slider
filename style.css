@@ -72,5 +72,10 @@ button {
        height: 150px;
        margin: 10px 13%;
     }
+    
+    #next {
+        margin-left: 120px;
+        opacity: 0;
+    }
         
 }
