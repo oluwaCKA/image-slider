@@ -60,3 +60,17 @@ button {
 #previous:hover, #previous:focus {
     opacity: 1;
 }
+
+@media screen and (max-width: 375px) {
+    .carouselContainer {
+         width: 300px;
+         height: 200px;
+    }
+    
+    img {
+       width: 150px;
+       height: 150px;
+       margin: 10px 13%;
+    }
+        
+}
